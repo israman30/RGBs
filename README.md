@@ -1,6 +1,6 @@
 # RGBs
 
-####by
+#### by
 
 *Israel Manzo*
 ## Sample of how to combine Red, Green and Blue (RGB)
